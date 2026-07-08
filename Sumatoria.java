@@ -9,3 +9,4 @@ public class Sumatoria {
         System.out.println("La suma de los numeros entre 50 y 100 es: " + cont);
     }
 }
+
