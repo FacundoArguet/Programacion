@@ -11,7 +11,7 @@ public class mainesca {
         System.out.print("Ingrese la red (Ej: 192.168.1.): ");
         String red = sc.nextLine();
 
-        System.out.println("Analizando...")
+        System.out.println("Analizando...");
         escaneo escaneo = new escaneo();
         escaneo.escanear(red);
 
