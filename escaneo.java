@@ -1,4 +1,4 @@
-package programacion.escaneo;
+package programacion;
 
 public class escaneo {
 
