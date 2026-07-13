@@ -1,7 +1,7 @@
 package programacion;
 import java.util.Scanner;
 
-public class mainesca {
+public class mainescan {
 
     public static void main(String[] args) {
 
@@ -10,7 +10,7 @@ public class mainesca {
         String red = sc.nextLine();
 
         System.out.println("Analizando...");
-        escaneo escaneo = new escaneo();
+        escaneore escaneo = new escaneore();
         escaneo.escanear(red);
 
         sc.close();

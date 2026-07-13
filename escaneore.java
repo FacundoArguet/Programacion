@@ -1,6 +1,6 @@
 package programacion;
 
-public class escaneo {
+public class escaneore {
 
     public void escanear(String red) {
 
