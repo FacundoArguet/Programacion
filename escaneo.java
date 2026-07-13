@@ -1,4 +1,4 @@
-package programacion;
+package programacion.Redes;
 
 public class escaneo {
 
