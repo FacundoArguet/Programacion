@@ -1,4 +1,4 @@
-package ejercicios.aula;
+package ejercicios;
 
 public class prueba {
     static void main() {
