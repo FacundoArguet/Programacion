@@ -4,7 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c463f48-f852-4de8-b0e6-32b28c80d918" name="Changes" comment="Subimos archivos del parcial" />
+    <list default="true" id="6c463f48-f852-4de8-b0e6-32b28c80d918" name="Changes" comment="Subimos archivos del parcial">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/AlgoritmoCincuenta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/AlgoritmoPrecio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/Articulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/Bhaskara.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/Bisiesto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/Cabeza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/CodigoCorregido.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/Comprendido.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/ComprendidoDos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/Maineje.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/MisFunciones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/Personaje.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/Programacion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/Redes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/Redes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/Redes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/Redes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/Redes/escaneo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/Redes/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/Ropa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/Sumatoria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/TarjetaCredito.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/Torax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/articuloDos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/cientifico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/claseAuto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/cuentaBancaria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/paresXY.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programacion/programacion/perro.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,23 +64,23 @@
 }]]></component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0761507406776856" />
-      <entry key="MS500" value="2.0849149291517337" />
-      <entry key="S2" value="4.285158241331626" />
-      <entry key="S5" value="6.545492711643878" />
-      <entry key="S10" value="7.988477307823678" />
-      <entry key="S30" value="10.375680755463785" />
-      <entry key="S60" value="13.499848933520267" />
-      <entry key="M2" value="17.82986955269162" />
-      <entry key="M5" value="22.82306657479112" />
-      <entry key="M10" value="25.175002967031435" />
-      <entry key="M15" value="26.059368687680195" />
-      <entry key="M30" value="26.99974452770864" />
-      <entry key="H1" value="27.492134788013843" />
-      <entry key="H2" value="27.744100488358967" />
-      <entry key="H4" value="27.87155438832396" />
-      <entry key="D1" value="27.97852317575311" />
-      <entry key="W1" value="27.99693018238176" />
+      <entry key="MS100" value="1.8794351656979569" />
+      <entry key="MS500" value="5.404023240654146" />
+      <entry key="S2" value="10.647311490436593" />
+      <entry key="S5" value="16.104000925256862" />
+      <entry key="S10" value="22.064517854894625" />
+      <entry key="S30" value="32.525381346150795" />
+      <entry key="S60" value="38.93927571305075" />
+      <entry key="M2" value="45.57225935810649" />
+      <entry key="M5" value="56.82265403858557" />
+      <entry key="M10" value="64.92457582860101" />
+      <entry key="M15" value="68.58978189336545" />
+      <entry key="M30" value="72.9041206393718" />
+      <entry key="H1" value="75.34505823942764" />
+      <entry key="H2" value="76.64451429301984" />
+      <entry key="H4" value="77.31508863786993" />
+      <entry key="D1" value="77.88483816561006" />
+      <entry key="W1" value="77.98352338723028" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -65,23 +102,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9952930926454924" />
-      <entry key="MS500" value="2.0497846614154045" />
-      <entry key="S2" value="4.265878646719584" />
-      <entry key="S5" value="6.533212657421256" />
-      <entry key="S10" value="7.980130623733127" />
-      <entry key="S30" value="10.359631009411983" />
-      <entry key="S60" value="13.473148730781519" />
-      <entry key="M2" value="17.801477726521092" />
-      <entry key="M5" value="22.804388015165536" />
-      <entry key="M10" value="25.163904254268864" />
-      <entry key="M15" value="26.051525844657284" />
-      <entry key="M30" value="26.995586526457195" />
-      <entry key="H1" value="27.4899937210149" />
-      <entry key="H2" value="27.74301405842803" />
-      <entry key="H4" value="27.87100715082441" />
-      <entry key="D1" value="27.978431406662907" />
-      <entry key="W1" value="27.9969170586734" />
+      <entry key="MS100" value="1.6810970465545392" />
+      <entry key="MS500" value="5.2904328041333315" />
+      <entry key="S2" value="10.582257581341512" />
+      <entry key="S5" value="16.05877909237824" />
+      <entry key="S10" value="22.03123145353562" />
+      <entry key="S30" value="32.50762673279448" />
+      <entry key="S60" value="38.92764303512948" />
+      <entry key="M2" value="45.56228754597763" />
+      <entry key="M5" value="56.81173842631356" />
+      <entry key="M10" value="64.91578844656154" />
+      <entry key="M15" value="68.58283592552449" />
+      <entry key="M30" value="72.89998306761655" />
+      <entry key="H1" value="75.34279651266387" />
+      <entry key="H2" value="76.64333142702813" />
+      <entry key="H4" value="77.31448370455668" />
+      <entry key="D1" value="77.88473542453283" />
+      <entry key="W1" value="77.98350866236005" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -132,7 +169,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1784278661584</updated>
-      <workItem from="1784278662660" duration="822000" />
+      <workItem from="1784278662660" duration="1139000" />
     </task>
     <task id="LOCAL-00001" summary="Subimos archivos del parcial">
       <option name="closed" value="true" />
