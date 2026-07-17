@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c463f48-f852-4de8-b0e6-32b28c80d918" name="Changes" comment="Subimos archivos del parcial" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "FacundoArguet"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/FacundoArguet/Programacion.git",
+    "accountId": "b8ae90eb-3473-4f8b-a124-f5d59c3ad536"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0761507406776856" />
+      <entry key="MS500" value="2.0849149291517337" />
+      <entry key="S2" value="4.285158241331626" />
+      <entry key="S5" value="6.545492711643878" />
+      <entry key="S10" value="7.988477307823678" />
+      <entry key="S30" value="10.375680755463785" />
+      <entry key="S60" value="13.499848933520267" />
+      <entry key="M2" value="17.82986955269162" />
+      <entry key="M5" value="22.82306657479112" />
+      <entry key="M10" value="25.175002967031435" />
+      <entry key="M15" value="26.059368687680195" />
+      <entry key="M30" value="26.99974452770864" />
+      <entry key="H1" value="27.492134788013843" />
+      <entry key="H2" value="27.744100488358967" />
+      <entry key="H4" value="27.87155438832396" />
+      <entry key="D1" value="27.97852317575311" />
+      <entry key="W1" value="27.99693018238176" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9952930926454924" />
+      <entry key="MS500" value="2.0497846614154045" />
+      <entry key="S2" value="4.265878646719584" />
+      <entry key="S5" value="6.533212657421256" />
+      <entry key="S10" value="7.980130623733127" />
+      <entry key="S30" value="10.359631009411983" />
+      <entry key="S60" value="13.473148730781519" />
+      <entry key="M2" value="17.801477726521092" />
+      <entry key="M5" value="22.804388015165536" />
+      <entry key="M10" value="25.163904254268864" />
+      <entry key="M15" value="26.051525844657284" />
+      <entry key="M30" value="26.995586526457195" />
+      <entry key="H1" value="27.4899937210149" />
+      <entry key="H2" value="27.74301405842803" />
+      <entry key="H4" value="27.87100715082441" />
+      <entry key="D1" value="27.978431406662907" />
+      <entry key="W1" value="27.9969170586734" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="3GclIGGeIJ4oupc1pFpul2FXT8J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/Programacion/src/Main.java",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c463f48-f852-4de8-b0e6-32b28c80d918" name="Changes" comment="" />
+      <created>1784278661584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784278661584</updated>
+      <workItem from="1784278662660" duration="822000" />
+    </task>
+    <task id="LOCAL-00001" summary="Subimos archivos del parcial">
+      <option name="closed" value="true" />
+      <created>1784279227942</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1784279227942</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Subimos archivos del parcial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Subimos archivos del parcial" />
+  </component>
+</project>
