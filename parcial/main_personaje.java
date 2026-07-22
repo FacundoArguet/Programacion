@@ -15,7 +15,7 @@ public class main_personaje {
         int nivel;
 
         do {
-            System.out.print("Ingrese el nivel (0-100): ");
+            System.out.print("Ingrese el nivel (0-4): ");
             nivel = sc.nextInt();
 
             if (nivel < 0) {
@@ -54,17 +54,17 @@ public class main_personaje {
 
         } while (opcionClase < 1 || opcionClase > 2);
 
-        // Configura arma, ataque y vida mínima
         claseElegida.configuracion();
+
+        if (claseElegida.getTipo().equals("Mago")) {
+
+            claseElegida.elegirObjetoMagico(sc);
+        }
 
         int salud;
 
         do {
 
-            if (claseElegida.getTipo().equals("Mago")) {
-                System.out.println("Seleccione sus hechizos");
-                claseElegida.elegirHechizos(sc);
-            }
 
             System.out.print(
                     "Ingrese la salud. La vida mínima para "
@@ -85,6 +85,7 @@ public class main_personaje {
             }
 
         } while (salud < claseElegida.getVidaMinima());
+
 
         Personaje personaje = new Personaje(
                 nombre,
